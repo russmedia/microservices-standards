@@ -27,7 +27,7 @@ Although microservices do not have defined exact programming languages and frame
 Preferered languages:
 1. node.js
 2. php
-3. Java or .NET
+3. Java or C#
 
 ### III. Recommendations:
 1. Usage of DBAL.
