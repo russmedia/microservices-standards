@@ -22,7 +22,7 @@ The purpose of this repository is to gather all the requirements which enable co
 10. Required deployment files should be included i.e. terraform files or Kubernetes helm charts/yaml files.
 
 ## II. Language and frameworks
-Although microservices do not have defined exact programming languages and frameworks, they should be developed in the technology which is appropriate to the problem it solves. The language also must be know in the group to enable other team/companies reviewing it.
+Although microservices do not have defined exact programming languages and frameworks, they should be developed in the technology which is appropriate to the problem it solves. You should prefer using known languages in the group to enable other team/companies reviewing it.
 
 Preferered languages:
 1. node.js
